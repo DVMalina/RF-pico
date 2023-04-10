@@ -8,4 +8,4 @@
 # Use library file rpi_rf.py that contains all the needed receive-transmit functions
 # Two shell files rf_comm_receive.py and rf_comm_transmitt.py show usage examples 
 
-# The implementation works within range of 20m inside a village house
+# The implementation works within range of 20m inside a countryside house
