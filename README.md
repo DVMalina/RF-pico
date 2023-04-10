@@ -1,4 +1,5 @@
 # RF-pico
+# Based on rpi-rf project ported to Pico 
 # Basic communication with low-cost 433MHz RF-modules
 # Two types of low-cost RF-modules have been used with RPI-pico
 # Superheterodyne type (left photo) and Supergenerator (right photo)
