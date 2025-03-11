@@ -1,9 +1,9 @@
-# RF-pico
-# Based on rpi-rf project that was ported and changed for Pico 
+# RF-pico (RP2040)
+# Based on rpi-rf project that was ported and changed for Raspberry-Pi Pico 
 # Basic communication with low-cost 433MHz RF-modules
 # Two types of low-cost RF-modules have been used with RPI-pico
 # Superheterodyne type (left photo) and Supergenerator (right photo)
-# Preferred to use superheterodyne type due to a good sensitvity
+# Preferred to use superheterodyne type due to a good sensitvity and less noise
 # The supergenerator apeared to work only for 3m range with this simplified protocol :(
 
 # Use library file rpi_rf.py that contains all the needed receive-transmit functions
